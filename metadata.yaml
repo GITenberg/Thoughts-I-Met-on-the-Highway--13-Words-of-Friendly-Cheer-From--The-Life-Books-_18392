@@ -1,0 +1,31 @@
+_repo: Thoughts-I-Met-on-the-Highway--13-Words-of-Friendly-Cheer-From--The-Life-Books-_18392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trine, Ralph Waldo
+    birthdate: 1866
+    deathdate: 1958
+    gutenberg_agent_id: '5465'
+    url: http://www.gutenberg.org/2009/agents/5465
+description: New Thought leader Ralph Waldo Trine was an enormously popular figure
+  in the metaphysical movement of the late nineteenth and early twentieth centuries.
+  His volume In Tune With the Infinite sold millions of copies upon its release in
+  1897, a remarkable feat in that era. Thoughts I Met on the Highway is a compendium
+  of Trine's follow-up work that serves as a handy and concise introduction to his
+  philosophy.
+gutenberg_issued: '2006-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'New Thought'
+title: 'Thoughts I Met on the Highway: Words of Friendly Cheer From "The Life Books"'
+url: http://www.gutenberg.org/ebooks/18392
